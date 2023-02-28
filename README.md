@@ -1,2 +1,2 @@
-# PricePrediction_BostonData_Artificial_Neural_Network
-Price Prediction BostonData Artificial Neural Network
+# Price Prediction on Boston Dataset using Artificial Neural Network
+This program uses artificial neural networks to predict prices using the Boston Dataset
